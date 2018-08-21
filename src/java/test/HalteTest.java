@@ -15,5 +15,7 @@ public class HalteTest {
     public static void main(String[] args) {
         Halte instiper = new Halte("instiper","ring road");
         System.out.println(instiper);
+        Halte upn = new Halte("upn","ring road");
+        System.out.println(upn);
     }
 }
